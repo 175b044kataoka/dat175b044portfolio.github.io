@@ -1,3 +1,12 @@
 h1{/*どこの何をどうするか*/
-  color: : red;/*色を赤に*/
+  /*文字*/
+  color: : #ff0000;/*色を赤に*/
+  font-size: 20px;/*大きさを20ピクセルに*/
+  font-family: serif;/*フォントを変更。間に空白がある場合""で囲む。例:"Lucida Grande"*/
+
+  /*文字背景*/
+  background-color: #dddd;/*色を変更*/
+
+  /**/
+
 }
