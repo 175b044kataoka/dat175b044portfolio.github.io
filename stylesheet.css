@@ -7,6 +7,10 @@ h1{/*どこの何をどうするか*/
   /*文字背景*/
   background-color: #dddd;/*色を変更*/
 
-  /**/
+}
 
+Constructionimg{
+  /*サイズ*/
+  width: 900px;/*横幅*/
+  height: 1000px;/*縦幅*/
 }
